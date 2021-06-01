@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-context-watchlist/static/css/main.3ee3555f.chunk.css",
+    "main.js": "/react-context-watchlist/static/js/main.3a6656ec.chunk.js",
+    "main.js.map": "/react-context-watchlist/static/js/main.3a6656ec.chunk.js.map",
+    "runtime-main.js": "/react-context-watchlist/static/js/runtime-main.588fb59c.js",
+    "runtime-main.js.map": "/react-context-watchlist/static/js/runtime-main.588fb59c.js.map",
+    "static/js/2.f0b7dfb6.chunk.js": "/react-context-watchlist/static/js/2.f0b7dfb6.chunk.js",
+    "static/js/2.f0b7dfb6.chunk.js.map": "/react-context-watchlist/static/js/2.f0b7dfb6.chunk.js.map",
+    "index.html": "/react-context-watchlist/index.html",
+    "static/css/main.3ee3555f.chunk.css.map": "/react-context-watchlist/static/css/main.3ee3555f.chunk.css.map",
+    "static/js/2.f0b7dfb6.chunk.js.LICENSE.txt": "/react-context-watchlist/static/js/2.f0b7dfb6.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/react-context-watchlist/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.588fb59c.js",
+    "static/js/2.f0b7dfb6.chunk.js",
+    "static/css/main.3ee3555f.chunk.css",
+    "static/js/main.3a6656ec.chunk.js"
+  ]
+}
